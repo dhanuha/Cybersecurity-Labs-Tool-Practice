@@ -75,7 +75,7 @@ This repository documents my hands-on experience and practical learning journey 
   - Endpoint Detection & Response (EDR)  
 
 - 📈 **Progress:**
-  - Ranked in the **Top 8%** of TryHackMe learners globally  
+  - Ranked in the **Top 6%** of TryHackMe learners globally  
   - Updating this repository **weekly** as I work through the **SOC Level 1 – Junior Security Analyst** pathway  
 
 ---
